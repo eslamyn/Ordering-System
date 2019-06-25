@@ -1,0 +1,131 @@
+C:\Users\3F\Desktop\shopping online c\shopping online c\bin\Debug\shopping online c.exe.config
+C:\Users\3F\Desktop\shopping online c\shopping online c\obj\Debug\shopping online c.exe
+C:\Users\3F\Desktop\shopping online c\shopping online c\obj\Debug\shopping online c.pdb
+C:\Users\3F\Desktop\shopping online c\shopping online c\bin\Debug\shopping online c.exe
+C:\Users\3F\Desktop\shopping online c\shopping online c\bin\Debug\shopping online c.pdb
+C:\Users\3F\Desktop\shopping online c\shopping online c\obj\Debug\shopping online c.csprojResolveAssemblyReference.cache
+C:\Users\3F\Desktop\shopping online c\shopping online c\obj\Debug\shopping_online_c.Customer_options.resources
+C:\Users\3F\Desktop\shopping online c\shopping online c\obj\Debug\shopping_online_c.Customer.resources
+C:\Users\3F\Desktop\shopping online c\shopping online c\obj\Debug\shopping_online_c.CustomerLogin.resources
+C:\Users\3F\Desktop\shopping online c\shopping online c\obj\Debug\shopping_online_c.Form1.resources
+C:\Users\3F\Desktop\shopping online c\shopping online c\obj\Debug\shopping_online_c.Manager_Options.resources
+C:\Users\3F\Desktop\shopping online c\shopping online c\obj\Debug\shopping_online_c.Manager.resources
+C:\Users\3F\Desktop\shopping online c\shopping online c\obj\Debug\shopping_online_c.Order_Bill.resources
+C:\Users\3F\Desktop\shopping online c\shopping online c\obj\Debug\shopping_online_c.Properties.Resources.resources
+C:\Users\3F\Desktop\shopping online c\shopping online c\obj\Debug\shopping_online_c.Register_menu.resources
+C:\Users\3F\Desktop\shopping online c\shopping online c\obj\Debug\shopping online c.csproj.GenerateResource.Cache
+E:\Faculty\Year 2\term 2\oop\shopping-online-c\shopping online c\shopping online c\bin\Debug\shopping online c.exe.config
+E:\Faculty\Year 2\term 2\oop\shopping-online-c\shopping online c\shopping online c\obj\Debug\shopping online c.exe
+E:\Faculty\Year 2\term 2\oop\shopping-online-c\shopping online c\shopping online c\obj\Debug\shopping online c.pdb
+E:\Faculty\Year 2\term 2\oop\shopping-online-c\shopping online c\shopping online c\bin\Debug\shopping online c.exe
+E:\Faculty\Year 2\term 2\oop\shopping-online-c\shopping online c\shopping online c\bin\Debug\shopping online c.pdb
+E:\Faculty\Year 2\term 2\oop\shopping-online-c\shopping online c\shopping online c\obj\Debug\shopping online c.csprojResolveAssemblyReference.cache
+E:\Faculty\Year 2\term 2\oop\shopping-online-c\shopping online c\shopping online c\obj\Debug\shopping_online_c.Customer_options.resources
+E:\Faculty\Year 2\term 2\oop\shopping-online-c\shopping online c\shopping online c\obj\Debug\shopping_online_c.Customer.resources
+E:\Faculty\Year 2\term 2\oop\shopping-online-c\shopping online c\shopping online c\obj\Debug\shopping_online_c.CustomerLogin.resources
+E:\Faculty\Year 2\term 2\oop\shopping-online-c\shopping online c\shopping online c\obj\Debug\shopping_online_c.Form1.resources
+E:\Faculty\Year 2\term 2\oop\shopping-online-c\shopping online c\shopping online c\obj\Debug\shopping_online_c.Manager_Options.resources
+E:\Faculty\Year 2\term 2\oop\shopping-online-c\shopping online c\shopping online c\obj\Debug\shopping_online_c.Manager.resources
+E:\Faculty\Year 2\term 2\oop\shopping-online-c\shopping online c\shopping online c\obj\Debug\shopping_online_c.Order_Bill.resources
+E:\Faculty\Year 2\term 2\oop\shopping-online-c\shopping online c\shopping online c\obj\Debug\shopping_online_c.Properties.Resources.resources
+E:\Faculty\Year 2\term 2\oop\shopping-online-c\shopping online c\shopping online c\obj\Debug\shopping_online_c.Register_menu.resources
+E:\Faculty\Year 2\term 2\oop\shopping-online-c\shopping online c\shopping online c\obj\Debug\shopping online c.csproj.GenerateResource.Cache
+C:\Users\supertotti\Desktop\shopping-online-c\shopping online c\shopping online c\bin\Debug\shopping online c.exe.config
+C:\Users\supertotti\Desktop\shopping-online-c\shopping online c\shopping online c\obj\Debug\shopping online c.exe
+C:\Users\supertotti\Desktop\shopping-online-c\shopping online c\shopping online c\obj\Debug\shopping online c.pdb
+C:\Users\supertotti\Desktop\shopping-online-c\shopping online c\shopping online c\bin\Debug\shopping online c.exe
+C:\Users\supertotti\Desktop\shopping-online-c\shopping online c\shopping online c\bin\Debug\shopping online c.pdb
+C:\Users\supertotti\Desktop\shopping-online-c\shopping online c\shopping online c\obj\Debug\shopping online c.csprojResolveAssemblyReference.cache
+C:\Users\supertotti\Desktop\shopping-online-c\shopping online c\shopping online c\obj\Debug\shopping_online_c.Customer_options.resources
+C:\Users\supertotti\Desktop\shopping-online-c\shopping online c\shopping online c\obj\Debug\shopping_online_c.Customer.resources
+C:\Users\supertotti\Desktop\shopping-online-c\shopping online c\shopping online c\obj\Debug\shopping_online_c.CustomerLogin.resources
+C:\Users\supertotti\Desktop\shopping-online-c\shopping online c\shopping online c\obj\Debug\shopping_online_c.Form1.resources
+C:\Users\supertotti\Desktop\shopping-online-c\shopping online c\shopping online c\obj\Debug\shopping_online_c.Manager_Options.resources
+C:\Users\supertotti\Desktop\shopping-online-c\shopping online c\shopping online c\obj\Debug\shopping_online_c.Manager.resources
+C:\Users\supertotti\Desktop\shopping-online-c\shopping online c\shopping online c\obj\Debug\shopping_online_c.Order_Bill.resources
+C:\Users\supertotti\Desktop\shopping-online-c\shopping online c\shopping online c\obj\Debug\shopping_online_c.Properties.Resources.resources
+C:\Users\supertotti\Desktop\shopping-online-c\shopping online c\shopping online c\obj\Debug\shopping_online_c.Register_menu.resources
+C:\Users\supertotti\Desktop\shopping-online-c\shopping online c\shopping online c\obj\Debug\shopping online c.csproj.GenerateResource.Cache
+C:\Users\supertotti\Desktop\last shape\shopping online c\shopping online c\bin\Debug\shopping online c.exe.config
+C:\Users\supertotti\Desktop\last shape\shopping online c\shopping online c\obj\Debug\shopping online c.exe
+C:\Users\supertotti\Desktop\last shape\shopping online c\shopping online c\obj\Debug\shopping online c.pdb
+C:\Users\supertotti\Desktop\last shape\shopping online c\shopping online c\bin\Debug\shopping online c.exe
+C:\Users\supertotti\Desktop\last shape\shopping online c\shopping online c\bin\Debug\shopping online c.pdb
+C:\Users\supertotti\Desktop\last shape\shopping online c\shopping online c\obj\Debug\shopping online c.csprojResolveAssemblyReference.cache
+C:\Users\supertotti\Desktop\last shape\shopping online c\shopping online c\obj\Debug\shopping_online_c.Customer_options.resources
+C:\Users\supertotti\Desktop\last shape\shopping online c\shopping online c\obj\Debug\shopping_online_c.Customer.resources
+C:\Users\supertotti\Desktop\last shape\shopping online c\shopping online c\obj\Debug\shopping_online_c.CustomerLogin.resources
+C:\Users\supertotti\Desktop\last shape\shopping online c\shopping online c\obj\Debug\shopping_online_c.Form1.resources
+C:\Users\supertotti\Desktop\last shape\shopping online c\shopping online c\obj\Debug\shopping_online_c.Manager_Options.resources
+C:\Users\supertotti\Desktop\last shape\shopping online c\shopping online c\obj\Debug\shopping_online_c.Manager.resources
+C:\Users\supertotti\Desktop\last shape\shopping online c\shopping online c\obj\Debug\shopping_online_c.Order_Bill.resources
+C:\Users\supertotti\Desktop\last shape\shopping online c\shopping online c\obj\Debug\shopping_online_c.Properties.Resources.resources
+C:\Users\supertotti\Desktop\last shape\shopping online c\shopping online c\obj\Debug\shopping_online_c.Register_menu.resources
+C:\Users\supertotti\Desktop\last shape\shopping online c\shopping online c\obj\Debug\shopping online c.csproj.GenerateResource.Cache
+E:\recover\Recovered data 02-26-2017 at 06_55_06\NTFS 1\GoogleChrome\FCIS\last shape\shopping online c\shopping online c\bin\Debug\shopping online c.exe.config
+E:\recover\Recovered data 02-26-2017 at 06_55_06\NTFS 1\GoogleChrome\FCIS\last shape\shopping online c\shopping online c\obj\Debug\shopping online c.exe
+E:\recover\Recovered data 02-26-2017 at 06_55_06\NTFS 1\GoogleChrome\FCIS\last shape\shopping online c\shopping online c\obj\Debug\shopping online c.pdb
+E:\recover\Recovered data 02-26-2017 at 06_55_06\NTFS 1\GoogleChrome\FCIS\last shape\shopping online c\shopping online c\bin\Debug\shopping online c.exe
+E:\recover\Recovered data 02-26-2017 at 06_55_06\NTFS 1\GoogleChrome\FCIS\last shape\shopping online c\shopping online c\bin\Debug\shopping online c.pdb
+E:\recover\Recovered data 02-26-2017 at 06_55_06\NTFS 1\GoogleChrome\FCIS\last shape\shopping online c\shopping online c\obj\Debug\shopping online c.csprojResolveAssemblyReference.cache
+E:\recover\Recovered data 02-26-2017 at 06_55_06\NTFS 1\GoogleChrome\FCIS\last shape\shopping online c\shopping online c\obj\Debug\shopping_online_c.Customer_options.resources
+E:\recover\Recovered data 02-26-2017 at 06_55_06\NTFS 1\GoogleChrome\FCIS\last shape\shopping online c\shopping online c\obj\Debug\shopping_online_c.Customer.resources
+E:\recover\Recovered data 02-26-2017 at 06_55_06\NTFS 1\GoogleChrome\FCIS\last shape\shopping online c\shopping online c\obj\Debug\shopping_online_c.CustomerLogin.resources
+E:\recover\Recovered data 02-26-2017 at 06_55_06\NTFS 1\GoogleChrome\FCIS\last shape\shopping online c\shopping online c\obj\Debug\shopping_online_c.Form1.resources
+E:\recover\Recovered data 02-26-2017 at 06_55_06\NTFS 1\GoogleChrome\FCIS\last shape\shopping online c\shopping online c\obj\Debug\shopping_online_c.Manager_Options.resources
+E:\recover\Recovered data 02-26-2017 at 06_55_06\NTFS 1\GoogleChrome\FCIS\last shape\shopping online c\shopping online c\obj\Debug\shopping_online_c.Manager.resources
+E:\recover\Recovered data 02-26-2017 at 06_55_06\NTFS 1\GoogleChrome\FCIS\last shape\shopping online c\shopping online c\obj\Debug\shopping_online_c.Order_Bill.resources
+E:\recover\Recovered data 02-26-2017 at 06_55_06\NTFS 1\GoogleChrome\FCIS\last shape\shopping online c\shopping online c\obj\Debug\shopping_online_c.Properties.Resources.resources
+E:\recover\Recovered data 02-26-2017 at 06_55_06\NTFS 1\GoogleChrome\FCIS\last shape\shopping online c\shopping online c\obj\Debug\shopping_online_c.Register_menu.resources
+E:\recover\Recovered data 02-26-2017 at 06_55_06\NTFS 1\GoogleChrome\FCIS\last shape\shopping online c\shopping online c\obj\Debug\shopping online c.csproj.GenerateResource.Cache
+E:\F   C    I     S\Project_OOP\project steps\last shape\shopping online c\shopping online c\bin\Debug\shopping online c.exe.config
+E:\F   C    I     S\Project_OOP\project steps\last shape\shopping online c\shopping online c\obj\Debug\shopping online c.exe
+E:\F   C    I     S\Project_OOP\project steps\last shape\shopping online c\shopping online c\obj\Debug\shopping online c.pdb
+C:\Users\egypt\Downloads\last-shape0000000\last shape\shopping online c\shopping online c\bin\Debug\shopping online c.exe.config
+C:\Users\egypt\Downloads\last-shape0000000\last shape\shopping online c\shopping online c\obj\Debug\shopping online c.exe
+C:\Users\egypt\Downloads\last-shape0000000\last shape\shopping online c\shopping online c\obj\Debug\shopping online c.pdb
+C:\Users\egypt\Downloads\last-shape0000000\last shape\shopping online c\shopping online c\bin\Debug\shopping online c.exe
+C:\Users\egypt\Downloads\last-shape0000000\last shape\shopping online c\shopping online c\bin\Debug\shopping online c.pdb
+C:\Users\egypt\Downloads\last-shape0000000\last shape\shopping online c\shopping online c\obj\Debug\shopping online c.csprojResolveAssemblyReference.cache
+C:\Users\egypt\Downloads\last-shape0000000\last shape\shopping online c\shopping online c\obj\Debug\shopping_online_c.Customer_options.resources
+C:\Users\egypt\Downloads\last-shape0000000\last shape\shopping online c\shopping online c\obj\Debug\shopping_online_c.Customer.resources
+C:\Users\egypt\Downloads\last-shape0000000\last shape\shopping online c\shopping online c\obj\Debug\shopping_online_c.CustomerLogin.resources
+C:\Users\egypt\Downloads\last-shape0000000\last shape\shopping online c\shopping online c\obj\Debug\shopping_online_c.Form1.resources
+C:\Users\egypt\Downloads\last-shape0000000\last shape\shopping online c\shopping online c\obj\Debug\shopping_online_c.Manager_Options.resources
+C:\Users\egypt\Downloads\last-shape0000000\last shape\shopping online c\shopping online c\obj\Debug\shopping_online_c.Manager.resources
+C:\Users\egypt\Downloads\last-shape0000000\last shape\shopping online c\shopping online c\obj\Debug\shopping_online_c.Order_Bill.resources
+C:\Users\egypt\Downloads\last-shape0000000\last shape\shopping online c\shopping online c\obj\Debug\shopping_online_c.Properties.Resources.resources
+C:\Users\egypt\Downloads\last-shape0000000\last shape\shopping online c\shopping online c\obj\Debug\shopping_online_c.Register_menu.resources
+C:\Users\egypt\Downloads\last-shape0000000\last shape\shopping online c\shopping online c\obj\Debug\shopping online c.csproj.GenerateResource.Cache
+C:\Users\egypt\Downloads\last-shape0000000\last shape\shopping online c\shopping online c\shopping online c\bin\Debug\shopping online c.exe.config
+C:\Users\egypt\Downloads\last-shape0000000\last shape\shopping online c\shopping online c\shopping online c\obj\Debug\shopping online c.exe
+C:\Users\egypt\Downloads\last-shape0000000\last shape\shopping online c\shopping online c\shopping online c\obj\Debug\shopping online c.pdb
+C:\Users\egypt\Downloads\last-shape0000000\last shape\shopping online c\shopping online c\shopping online c\bin\Debug\shopping online c.exe
+C:\Users\egypt\Downloads\last-shape0000000\last shape\shopping online c\shopping online c\shopping online c\bin\Debug\shopping online c.pdb
+C:\Users\egypt\Downloads\last-shape0000000\last shape\shopping online c\shopping online c\shopping online c\obj\Debug\shopping online c.csprojResolveAssemblyReference.cache
+C:\Users\egypt\Downloads\last-shape0000000\last shape\shopping online c\shopping online c\shopping online c\obj\Debug\shopping_online_c.Customer_options.resources
+C:\Users\egypt\Downloads\last-shape0000000\last shape\shopping online c\shopping online c\shopping online c\obj\Debug\shopping_online_c.Customer.resources
+C:\Users\egypt\Downloads\last-shape0000000\last shape\shopping online c\shopping online c\shopping online c\obj\Debug\shopping_online_c.CustomerLogin.resources
+C:\Users\egypt\Downloads\last-shape0000000\last shape\shopping online c\shopping online c\shopping online c\obj\Debug\shopping_online_c.Form1.resources
+C:\Users\egypt\Downloads\last-shape0000000\last shape\shopping online c\shopping online c\shopping online c\obj\Debug\shopping_online_c.Manager_Options.resources
+C:\Users\egypt\Downloads\last-shape0000000\last shape\shopping online c\shopping online c\shopping online c\obj\Debug\shopping_online_c.Manager.resources
+C:\Users\egypt\Downloads\last-shape0000000\last shape\shopping online c\shopping online c\shopping online c\obj\Debug\shopping_online_c.Order_Bill.resources
+C:\Users\egypt\Downloads\last-shape0000000\last shape\shopping online c\shopping online c\shopping online c\obj\Debug\shopping_online_c.Properties.Resources.resources
+C:\Users\egypt\Downloads\last-shape0000000\last shape\shopping online c\shopping online c\shopping online c\obj\Debug\shopping_online_c.Register_menu.resources
+C:\Users\egypt\Downloads\last-shape0000000\last shape\shopping online c\shopping online c\shopping online c\obj\Debug\shopping online c.csproj.GenerateResource.Cache
+C:\Users\Eslam\Desktop\Ordering System\shopping online c\bin\Debug\shopping online c.exe.config
+C:\Users\Eslam\Desktop\Ordering System\shopping online c\obj\Debug\shopping online c.exe
+C:\Users\Eslam\Desktop\Ordering System\shopping online c\obj\Debug\shopping online c.pdb
+C:\Users\Eslam\Desktop\Ordering System\shopping online c\bin\Debug\shopping online c.exe
+C:\Users\Eslam\Desktop\Ordering System\shopping online c\bin\Debug\shopping online c.pdb
+C:\Users\Eslam\Desktop\Ordering System\shopping online c\obj\Debug\shopping online c.csprojResolveAssemblyReference.cache
+C:\Users\Eslam\Desktop\Ordering System\shopping online c\obj\Debug\shopping_online_c.Customer_options.resources
+C:\Users\Eslam\Desktop\Ordering System\shopping online c\obj\Debug\shopping_online_c.Customer.resources
+C:\Users\Eslam\Desktop\Ordering System\shopping online c\obj\Debug\shopping_online_c.CustomerLogin.resources
+C:\Users\Eslam\Desktop\Ordering System\shopping online c\obj\Debug\shopping_online_c.Form1.resources
+C:\Users\Eslam\Desktop\Ordering System\shopping online c\obj\Debug\shopping_online_c.Manager_Options.resources
+C:\Users\Eslam\Desktop\Ordering System\shopping online c\obj\Debug\shopping_online_c.Manager.resources
+C:\Users\Eslam\Desktop\Ordering System\shopping online c\obj\Debug\shopping_online_c.Order_Bill.resources
+C:\Users\Eslam\Desktop\Ordering System\shopping online c\obj\Debug\shopping_online_c.Properties.Resources.resources
+C:\Users\Eslam\Desktop\Ordering System\shopping online c\obj\Debug\shopping_online_c.Register_menu.resources
+C:\Users\Eslam\Desktop\Ordering System\shopping online c\obj\Debug\shopping online c.csproj.GenerateResource.Cache
